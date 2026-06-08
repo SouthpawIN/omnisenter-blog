@@ -132,3 +132,8 @@ its siblings, that's a bug — please report.
 ## TOWARDS SELF-IMPROVEMENT
 
 — Chris (via Nous Girl), 2026-06-07
+
+
+## Companion projects
+
+- **[nous-girl-agent](https://github.com/SouthpawIN/nous-girl-agent)** — the desktop pet, local model server, and OmniStep Evolution Radio plugin. The pet is a curated multimodal experience of OmniStep; the radio is the evolutionary ambient layer. Two-tier agent: pet = taste curator, Hermes main = action executor.
