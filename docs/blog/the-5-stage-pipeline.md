@@ -243,7 +243,7 @@ A 35GB-50GB model repo on HuggingFace:
 - [`the-notebook-schema.md`](./the-notebook-schema.md) — Stage 5a spec
 - [senter-ohm](./the-ohm-runtime.md)
   — Stage 5c spec
-- [senter-architecture](./the-senter-architecture.md)
+- [senter-architecture](./the-omnisenter-architecture.md)
   — the system overview
 
 ## TOWARDS SELF-IMPROVEMENT

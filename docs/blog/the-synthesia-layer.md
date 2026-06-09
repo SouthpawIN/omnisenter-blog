@@ -295,7 +295,7 @@ One expert, both jobs, same forward pass.
   flagship
 - [`the-notebook-schema.md`](./the-notebook-schema.md) — the notebook that
   Synthesia indexes
-- [`the-senter-architecture.md`](./the-senter-architecture.md) —
+- [`the-senter-architecture.md`](./the-omnisenter-architecture.md) —
   the system that hosts the synesthesia layer
 - [`the-omnimodal-fusion.md`](./the-omnimodal-fusion.md) — the three-
   component Cosmos × ACE-Step × Nemotron ASR master plan

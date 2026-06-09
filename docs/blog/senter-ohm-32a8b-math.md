@@ -209,7 +209,7 @@ download, then the model is local forever.
   the Stage 3 deep dive with the math
 - [`the-5-stage-pipeline.md`](./the-5-stage-pipeline.md) — the build
   roadmap
-- [senter-architecture](./the-senter-architecture.md)
+- [senter-architecture](./the-omnisenter-architecture.md)
   — the system overview
 
 ## TOWARDS SELF-IMPROVEMENT

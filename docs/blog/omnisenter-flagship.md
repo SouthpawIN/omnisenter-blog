@@ -154,7 +154,7 @@ on a single 3090 for inference, or QLoRA-trains on dual 3090s.
 
 ## Synthesia: cross-modal memory
 
-![Senter Ohm as a cosmic node: a central AI surrounded by orbital rings labeled with subsystems, with streams of text, audio, and image flowing in and out. The whole architecture, visualized.](assets/hero-senter-architecture.png)
+![Senter Ohm as a cosmic node: a central AI surrounded by orbital rings labeled with subsystems, with streams of text, audio, and image flowing in and out. The whole architecture, visualized.](assets/hero-omnisenter-architecture.png)
 
 > *"is there a way to have it be both a multimodal specialist as well as agenetic specialist with the experts... maybe there's something clever we can do with the automatic always going and maybe categorizing different memories with sound and vision as well if those are hooked up... maybe memory embeddings would be easier to hold on to or be able to hold across different dimensions if we get to have different modalities to them..."* — Chris, 2026-06-07
 

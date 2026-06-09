@@ -219,7 +219,7 @@ OmniStep Multimodal at the new architecture scale:
 
 - [`the-omnimodal-fusion.md`](./the-omnimodal-fusion.md) — the master
   plan (Cosmos × ACE-Step × Nemotron ASR)
-- [`the-senter-architecture.md`](./the-senter-architecture.md) —
+- [`the-senter-architecture.md`](./the-omnisenter-architecture.md) —
   the multi-stage pipeline built on top of this fusion
 - [`senter-ohm-flagship.md`](./senter-ohm-flagship.md) — the Senter
   Ohm 32A8B flagship (the next-gen destination)

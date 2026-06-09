@@ -233,7 +233,7 @@ launcher asks before preloading.
 ### Launching a Hermes session with the wiki
 
 The omni-va service exposes a `/hermes/launch` endpoint (future work,
-see [TODO](#todo) below) that:
+see [TODO](#todo-the-parts-i-havent-built-yet) below) that:
 
 1. Reads the wiki at `~/.hermes/wiki/`
 2. Spawns a Hermes agent process (e.g., via the existing
@@ -611,9 +611,9 @@ full standalone + aux platform.
   spec (the transient session state, NOT the wiki)
 - [`the-5-stage-pipeline.md`](./the-5-stage-pipeline.md) — the build
   roadmap
-- [`senter-integration.md`](./senter-integration.md) — the
+- [`senter-integration.md`](./omnisenter-integration.md) — the
   one-click install for the whole stack
-- [senter-architecture](./the-senter-architecture.md)
+- [senter-architecture](./the-omnisenter-architecture.md)
   — the system overview
 - `hermes-agent/agent/auxiliary_client.py` — the integration point
 

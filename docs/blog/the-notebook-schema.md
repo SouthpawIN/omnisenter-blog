@@ -310,7 +310,7 @@ Estimated code: 400-600 lines of Python for the manager + 200 lines for the Syne
 
 ## See also
 
-- [senter-architecture](./the-senter-architecture.md) — the system overview
+- [senter-architecture](./the-omnisenter-architecture.md) — the system overview
 - [synthesia](./the-synthesia-layer.md) — the cross-modal memory indexer
 - [senter-ohm](./the-ohm-runtime.md) — the self-evolving model file
 - [the-5-stage-pipeline](./the-5-stage-pipeline.md) — the build roadmap

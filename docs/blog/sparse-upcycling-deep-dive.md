@@ -191,7 +191,7 @@ Plus the headline: the [Ohm](./the-ohm-runtime.md) runtime can evolve each exper
 
 ## See also
 
-- [senter-architecture](./the-senter-architecture.md) — the system overview
+- [senter-architecture](./the-omnisenter-architecture.md) — the system overview
 - [the-5-stage-pipeline](./the-5-stage-pipeline.md) — sparse upcycle is Stage 3
 - [senter-ohm-32a8b-math](./senter-ohm-32a8b-math.md) — the full sizing breakdown
 - [synthesia](./the-synthesia-layer.md) — the synesthesia expert that's one of the routed experts

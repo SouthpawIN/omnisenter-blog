@@ -188,7 +188,7 @@ All three will eventually **replace** the current transitional HF models
 
 - [`the-omnistep-multimodal.md`](./the-omnistep-multimodal.md) — the
   destination unified model (Phase 1 of the fusion)
-- [`the-senter-architecture.md`](./the-senter-architecture.md) —
+- [`the-senter-architecture.md`](./the-omnisenter-architecture.md) —
   the multi-stage pipeline built on top of this fusion
 - [`senter-ohm-flagship.md`](./senter-ohm-flagship.md) — the Senter Ohm
   32A8B flagship that emerges from the full fusion

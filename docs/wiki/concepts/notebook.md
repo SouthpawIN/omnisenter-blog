@@ -7,7 +7,7 @@
 
 The **notebook** is a structured state object that flows between turns,
 between agents, and across process boundaries. It's what makes
-[Senter](./senter.md) (any model in the Senter family) an **effective**
+[Senter[](../concepts/senter.md) (any model in the Senter family) an **effective**
 auxiliary to Hermes Agent rather than just a smaller model.
 
 The notebook is **owned by Senter**, not by Hermes. Hermes is a guest
@@ -77,4 +77,4 @@ Stage 4 (YaRN extension) of the pipeline.
 
 - Blog post: [`../../blog/the-notebook-schema.md`](../../blog/the-notebook-schema.md)
 - Blog post: [`../../blog/senter-as-hermes-auxiliary.md`](../../blog/senter-as-hermes-auxiliary.md)
-- Related: [Senter](./senter.md) · [Synthesia](./synthesia.md) · [Hermes auxiliary](./hermes-auxiliary.md) · [Senter Ohm](./senter-ohm.md)
+- Related: [Senter[](../concepts/senter.md) · [Synthesia](./synthesia.md) · [Hermes auxiliary[](../concepts/hermes-auxiliary.md) · [Senter Ohm](./senter-ohm.md)
