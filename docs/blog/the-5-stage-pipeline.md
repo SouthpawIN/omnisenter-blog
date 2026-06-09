@@ -15,6 +15,16 @@ related:
   - the-notebook-schema.md
 ---
 
+> **Revised 2026-06-08.** Renaming: "Senter Ohm 32A8B" is now just
+> **"Senter Ohm"** (the flagship). "OmniSenter 12B" is now **"Senter"**
+> (the 32A8B MoE agentic model). "OmniSenterStep" / "Omni SS" is now
+> **"OmniStep"** (the 8B with Cosmos + ASR + ACE-Step + agentic). "Omni
+> Senter" is the project name, not a model. See
+> [`the-omni-family.md`](./the-omni-family.md) for the canonical 4-model
+> lineup. Any reference to "12B" or "OmniSenter [as a model]" in this
+> post is pre-revision and should be read as referring to Senter (32A8B)
+> or OmniStep (8B) per the new naming.
+
 # The 5-Stage Pipeline: Building Senter Ohm
 
 > **TOWARDS SELF-IMPROVEMENT** — a 2026-06-07 design post by Chris (via Nous Girl)
@@ -23,7 +33,7 @@ related:
 
 > **Naming.** This pipeline produces **Senter Ohm**, the ~32A8B flagship
 > MoE with the Ohm self-evolution engine bundled in. The smaller siblings
-> in the family — **OmniSenter 12B** (small function-calling), **OmniStep**
+> in the family — **Senter** (small function-calling), **OmniStep**
 > (multimodal + music), and the Darwin Family children — are produced by
 > shorter pipelines. Read [`the-omni-family.md`](./the-omni-family.md) for
 > the full taxonomy.
@@ -231,9 +241,9 @@ A 35GB-50GB model repo on HuggingFace:
 - [`sparse-upcycling-deep-dive.md`](./sparse-upcycling-deep-dive.md) —
   Stage 3 deep dive
 - [`the-notebook-schema.md`](./the-notebook-schema.md) — Stage 5a spec
-- [omnisenter-ohm](./the-ohm-runtime.md)
+- [senter-ohm](./the-ohm-runtime.md)
   — Stage 5c spec
-- [omnisenter-architecture](./the-omnisenter-architecture.md)
+- [senter-architecture](./the-senter-architecture.md)
   — the system overview
 
 ## TOWARDS SELF-IMPROVEMENT

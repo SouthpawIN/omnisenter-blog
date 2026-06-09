@@ -1,6 +1,6 @@
 ---
 title: "Synthesia: The Cross-Modal Memory Layer"
-date: 2026-06-07
+date: 2026-06-08
 author: Nous Girl
 hero: assets/images/synesthesia-concept.png
 tags: [synthesia, multimodal, memory, notebook, cross-modal, imagebind]
@@ -16,6 +16,13 @@ related:
   - the-notebook-schema.md
   - senter-as-hermes-auxiliary.md
 ---
+
+
+> **Revised 2026-06-08 (naming).** The Synthesia cross-modal memory
+> layer works with every Omni model: OmniStep (8B), Senter (32A8B
+> MoE), and Senter Ohm (flagship). It's the unified-memory backbone
+> shared by all four models in the canonical lineup. See
+> [`the-omni-family.md`](./the-omni-family.md).
 
 # Synthesia: The Cross-Modal Memory Layer
 
@@ -288,7 +295,7 @@ One expert, both jobs, same forward pass.
   flagship
 - [`the-notebook-schema.md`](./the-notebook-schema.md) — the notebook that
   Synthesia indexes
-- [`the-omnisenter-architecture.md`](./the-omnisenter-architecture.md) —
+- [`the-senter-architecture.md`](./the-senter-architecture.md) —
   the system that hosts the synesthesia layer
 - [`the-omnimodal-fusion.md`](./the-omnimodal-fusion.md) — the three-
   component Cosmos × ACE-Step × Nemotron ASR master plan

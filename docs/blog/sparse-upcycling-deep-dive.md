@@ -1,11 +1,18 @@
 # Sparse Upcycling: Building Senter Ohm's 32B MoE from an 8B Base
 
+> **Revised 2026-06-08 (naming).** The Stage 3 sparse upcycle
+> described in this post is what turns **OmniStep** (8B) into
+> **Senter** (32A8B MoE) and then **Senter Ohm** (flagship with
+> self-evolution). The 32A8B math applies to **Senter** /
+> **Senter Ohm**, not to any "OmniSenter 12B" (which is gone).
+
+
 > **TOWARDS SELF-IMPROVEMENT** — a 2026-06-07 design post by Chris (via Nous Girl)
 
 ![A dense neural network being broken apart and reorganized into multiple parallel expert columns, in retro manga industrial style](../assets/images/sparse-upcycling.png)
 
 > **Naming.** This post is about the **Stage 3** build of **Senter Ohm**,
-> the ~32A8B flagship. The smaller siblings — **OmniSenter 12B** (small
+> the ~32A8B flagship. The smaller siblings — **Senter** (small
 > function calling + omnimodal fusion) and **OmniStep** (multimodal +
 > music) — are dense-ish models and don't go through sparse upcycling.
 > Read [`the-omni-family.md`](./the-omni-family.md) for the full taxonomy.
@@ -184,11 +191,11 @@ Plus the headline: the [Ohm](./the-ohm-runtime.md) runtime can evolve each exper
 
 ## See also
 
-- [omnisenter-architecture](./the-omnisenter-architecture.md) — the system overview
+- [senter-architecture](./the-senter-architecture.md) — the system overview
 - [the-5-stage-pipeline](./the-5-stage-pipeline.md) — sparse upcycle is Stage 3
 - [senter-ohm-32a8b-math](./senter-ohm-32a8b-math.md) — the full sizing breakdown
 - [synthesia](./the-synthesia-layer.md) — the synesthesia expert that's one of the routed experts
-- [omnisenter-ohm](./the-ohm-runtime.md) — the self-evolving runtime that runs on top
+- [senter-ohm](./the-ohm-runtime.md) — the self-evolving runtime that runs on top
 - Script: `multimodal-expansion/scripts/sparse_upcycle.py`
 - Reference: [Komatsuzaki et al. 2022 "Sparse Upcycling"](https://arxiv.org/abs/2212.05055)
 

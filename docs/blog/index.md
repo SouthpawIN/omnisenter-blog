@@ -2,6 +2,12 @@
 title: Blog
 ---
 
+
+> **Revised 2026-06-08 (naming).** The 4-model lineup is:
+> **OmniStep** + **OmniStep Ohm** + **Senter** + **Senter Ohm**.
+> "OmniSenter" is the project name only. The flagship is **Senter
+> Ohm**. See [`the-omni-family.md`](./the-omni-family.md).
+
 # Blog
 
 13 posts in the OmniSenter catalog, in reading order.
@@ -76,7 +82,7 @@ title: Blog
 </div>
 
 <div class="blog-card">
-<h3><a href="the-omnisenter-architecture.html">The OmniSenter Architecture</a></h3>
+<h3><a href="the-senter-architecture.html">The OmniSenter Architecture</a></h3>
 <p class="meta">2026-06-07 · <span class="read-time">15 min read</span></p>
 <p>Stream I/O → MoE → notebook → plugins → Hermes. The full system architecture.</p>
 </div>
@@ -86,9 +92,20 @@ title: Blog
 
 <div class="blog-grid">
 <div class="blog-card">
-<h3><a href="senter-as-hermes-auxiliary.html">Senter as the Hermes Auxiliary</a></h3>
-<p class="meta">2026-06-07 · <span class="read-time">12 min read</span></p>
-<p>How Senter talks to Hermes Agent. The notebook-as-API pattern, escalation rules, the cost model.</p>
+<h3><a href="senter-as-hermes-auxiliary.html">The Senter Local Model Server</a></h3>
+<p class="meta">2026-06-08 · <span class="read-time">12 min read</span></p>
+<p>Standalone (radio, note-taker, user-idea wiki) + Hermes auxiliary when Senter Ohm 32A8B is loaded. Wake-on-ping, liquid VRAM, opt-in wiki handoff. <em>(revised 2026-06-08 from the 2026-06-07 aux-only framing)</em></p>
+</div>
+
+<div class="blog-card">
+<h3><a href="evolutionary-radio-as-desk-pet.html">The Evolutionary Radio is the Desk Pet</a></h3>
+<p class="meta">2026-06-08 · <span class="read-time">12 min read</span></p>
+<p>One button starts the whole local intelligence stack: omni-va + brain + wiki + vault + compactor. The local model IS the gold judge, the Hermes aux, and the brain. The unified vision post (Chris's 2026-06-08 epiphany).</p>
+</div>
+<div class="blog-card">
+<h3><a href="the-omni-va-architecture.html">The Omni VA Architecture</a></h3>
+<p class="meta">2026-06-08 · <span class="read-time">12 min read</span></p>
+<p>The local model server (omni-va) — wake-on-ping, liquid VRAM, auto-heal. Bedrock of Evolution Radio, the note-taker, and the Hermes aux. The canonical arch doc for the slot.</p>
 </div>
 
 <div class="blog-card">

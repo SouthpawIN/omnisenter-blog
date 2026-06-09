@@ -1,12 +1,20 @@
 # The Notebook Schema: How Senter Remembers What Hermes Doesn't
 
+> **Revised 2026-06-08 (naming).** The notebook is the **transient
+> session state** between Senter (32A8B MoE) and Hermes Agent. It is
+> **NOT the wiki** — the wiki is a separate, persistent, user-owned
+> LLM-friendly knowledge base curated by the note-taker. See
+> [`senter-as-hermes-auxiliary.md`](./senter-as-hermes-auxiliary.md)
+> for the full notebook-vs-wiki distinction.
+
+
 > **TOWARDS SELF-IMPROVEMENT** — a 2026-06-07 design post by Chris (via Nous Girl)
 
 ![The notebook as cosmic holographic artifact: open pages emanating beams of text, audio waveforms, and image fragments, observed by the Nous Girl character](../assets/images/notebook-schema.png)
 
 > **Naming.** The notebook is the defining feature of every model in the
 > **Senter** family (any Omni model with the agentic core wired in —
-> OmniSenter 12B, OmniSenterStep, Senter Ohm). If a model is a Senter, it
+> Senter, OmniStep, Senter Ohm). If a model is a Senter, it
 > has a notebook. The 256K context window exists *for the notebook*. Read
 > [`the-omni-family.md`](./the-omni-family.md) for the full taxonomy.
 
@@ -302,9 +310,9 @@ Estimated code: 400-600 lines of Python for the manager + 200 lines for the Syne
 
 ## See also
 
-- [omnisenter-architecture](./the-omnisenter-architecture.md) — the system overview
+- [senter-architecture](./the-senter-architecture.md) — the system overview
 - [synthesia](./the-synthesia-layer.md) — the cross-modal memory indexer
-- [omnisenter-ohm](./the-ohm-runtime.md) — the self-evolving model file
+- [senter-ohm](./the-ohm-runtime.md) — the self-evolving model file
 - [the-5-stage-pipeline](./the-5-stage-pipeline.md) — the build roadmap
 - [sparse-upcycling-deep-dive](./sparse-upcycling-deep-dive.md) — Stage 3 of the pipeline
 

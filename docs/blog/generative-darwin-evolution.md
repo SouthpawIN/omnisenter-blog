@@ -1,5 +1,11 @@
 # Generative Darwin Evolution: Darwin-merging DiT Weights
 
+> **Revised 2026-06-08 (naming).** Darwin Family merging is the
+> methodology that builds every Omni model — OmniStep (8B), Senter
+> (32A8B MoE), and Senter Ohm (flagship). See
+> [`the-omni-family.md`](./the-omni-family.md) for the lineup.
+
+
 > **TOWARDS SELF-IMPROVEMENT** — a 2026-06-07 design post by Chris (via Nous Girl)
 
 ![A music synthesizer being transformed by a DNA double helix wrapping around it, with sound waveforms emerging — generative models being evolved](../assets/images/generative-darwin.png)
